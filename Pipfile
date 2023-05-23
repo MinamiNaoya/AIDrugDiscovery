@@ -6,8 +6,9 @@ name = "pypi"
 [packages]
 rdkit = "*"
 pandas = "*"
-matplotlib = "*"
 numpy = "*"
+matplotlib = "*"
+lightgbm = "*"
 
 [dev-packages]
 
